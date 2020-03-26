@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TekenApp" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="tekenapp.TekenApp" />
+    <module name="Paint" />
+    <option name="VM_PARAMETERS" value="--module-path lib --add-modules javafx.fxml,javafx.controls" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

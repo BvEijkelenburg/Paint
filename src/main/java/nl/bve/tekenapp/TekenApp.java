@@ -1,4 +1,4 @@
-package tekenapp;
+package nl.bve.tekenapp;
 
 import java.awt.image.RenderedImage;
 

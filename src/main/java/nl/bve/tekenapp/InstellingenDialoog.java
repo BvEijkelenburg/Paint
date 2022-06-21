@@ -1,4 +1,4 @@
-package tekenapp;
+package nl.bve.tekenapp;
 
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
